@@ -2,17 +2,17 @@
 <div class="container">
 	
 	
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=WELCOME%20&width=800&height=170)](https://github.com/Jovigovidal)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=H̶̺̰͎̮̥̻͍͚́̀̅̂̈́͊̓̓̔͜Ę̸̘̤̞͍̜͉̟̜̀̃̈́̄̐̈́̕͠L̸̘̼̹̑͠L̸͙̟̺̰̬̥̪͉͛̔̑̑͑̒́̀͝͠O̵̡̗͚̘͎̲̭͖̖͔͗̔̾̈́͆͊̕Ẅ̵̧̙͓̟͔͎̤́̈͊͆̿̆͌͗͠ͅŌ̶̯̯̙̱̺͓̹̹͕̟͒̆̔̋͛̕͝Ŕ̴̢̘͍̠̂Ļ̴̠̫̫̍͊͑̆̈́͑̇͐̑D̵̙̮̪̬̻͖̳̭̥̘͑́̏̂͊̋̕%20&width=800&height=170&)](https://github.com/Jovigovidal)
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevidalg)
-[![Website](https://img.shields.io/badge/website-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black)](https://leviarista.github.io/resume)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967872814) 
+
 
        
-# Hola Mundo👋
-___Soy Jose, Desarrollador front-end, Soporte Ti.___
+# **Soy Jose Vidal**,<sub>  _Desarrollador front-end_</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevidalg)
+[![Website](https://img.shields.io/badge/website-ＣＶ-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://leviarista.github.io/resume)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967872814) 
 <br>
 ### Tecnologias 💻
 
