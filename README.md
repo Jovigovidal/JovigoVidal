@@ -1,11 +1,11 @@
 
 <div class="container">
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=BIENVENIDO%20&width=800&height=170)](https://www.linkedin.com/in/josevidalg)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=BIENVENIDO%20&width=800&height=170)](https://github.com/Jovigovidal)
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pe.linkedin.com/in/levi-arista)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevidalg)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/78168/levi-arista)
 [![Website](https://img.shields.io/badge/website-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black)](https://leviarista.github.io/resume)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/leviarista)
