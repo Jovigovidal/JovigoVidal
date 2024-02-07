@@ -11,7 +11,7 @@
        
 # **Soy Jose Vidal**,<sub>  _Desarrollador front-end_</sub>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevidalg)
-[![Website](https://img.shields.io/badge/website-ＣＶ-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://leviarista.github.io/resume)
+[![Website](https://img.shields.io/badge/website-ＣＶ-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://jovigovidal.github.io/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967872814) 
 <br>
 ### Tecnologias 💻
@@ -53,8 +53,8 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117)](https://github.com/leviarista/eco-stats-peru) -->
 
 <p align="center">
-    <a href="https://github.com/leviarista/github-profile-header-generator">
-      <img width="410" src="https://repository-images.githubusercontent.com/464195386/913299a3-ab61-4f25-af43-0875996a0f13"/>
+    <a href="https://jovigovidal.github.io/">
+      <img width="410" src="https://jovigovidal.github.io/"/>
     </a>
     <a href="https://github.com/leviarista/eco-stats-peru">
       <img width="400" src="https://repository-images.githubusercontent.com/340539352/ef20cd80-7a0d-11eb-89f7-7d47d811e502"/>
