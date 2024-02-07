@@ -8,7 +8,7 @@
 
 
 <p align="">
-Hola   <br>   
+Hola!   <br>   
 Soy Jose Vidal,<sub>  Desarrollador front-end</sub>
 </p>
 
