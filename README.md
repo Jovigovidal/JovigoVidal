@@ -55,7 +55,7 @@
     <a href="https://jovigovidal.github.io/">
       <img width="300" height="200"  src="https://cdn2.estegrafico.com/images/check.gif"/>
     </a>
-    <a href="www.linkedin.com/in/josevidalg">
+    <a href="https://www.linkedin.com/in/josevidalg">
       <img width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif"/>
 </p>
 
