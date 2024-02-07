@@ -13,7 +13,7 @@ Soy Jose Vidal,<sub>  Desarrollador front-end</sub>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevidalg)
-[![Website](https://img.shields.io/badge/website-ＣＶ-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://jovigovidal.github.io/)
+[![Website](https://img.shields.io/badge/website-ＣＶ-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://drive.google.com/file/d/1oFq6udTAIU2ImwA-irTlfCXQX-Yo4cAN/view?usp=drive_link)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967872814) 
 <br>
 ### Tecnologias 💻
