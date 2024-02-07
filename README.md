@@ -49,23 +49,14 @@
 </p>
 
 
-### Portafolio 📌
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117)](https://github.com/leviarista/eco-stats-peru) -->
+### Plataformas 📌
 
 <p align="center">
     <a href="https://jovigovidal.github.io/">
-      <img width="410" src="https://cdn2.estegrafico.com/images/check.gif"/>
+      <img width="300" height="200"  src="https://cdn2.estegrafico.com/images/check.gif"/>
     </a>
-    <a href="https://github.com/leviarista/eco-stats-peru">
-      <img width="400" src="https://repository-images.githubusercontent.com/340539352/ef20cd80-7a0d-11eb-89f7-7d47d811e502"/>
-      <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&theme=tokyonight&show_owner=false" /> -->
-	@@ -109,6 +112,9 @@ I am Leví, Fullstack developer, Systems engineer and I also like to design.
-      <img width="410" src="https://repository-images.githubusercontent.com/384718454/cb85f71c-7193-455e-87c0-e8abf16ad56f"/>
-      <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=twenty_one_mining&show_icons=true&theme=tokyonight&show_owner=false" /> -->
-    </a>
-    <a href="https://github.com/leviarista/speciess">
-      <img width="400" src="https://repository-images.githubusercontent.com/444587364/fb40681d-05c7-4a8a-b928-1b63d1bcbe8d"/>
-    </a>
+    <a href="www.linkedin.com/in/josevidalg">
+      <img width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif"/>
 </p>
 
-### Stats 📈
+
