@@ -54,7 +54,7 @@
 
 <p align="center">
     <a href="https://jovigovidal.github.io/">
-      <img width="410" src="https://jovigovidal.github.io/"/>
+      <img width="410" src="https://cdn2.estegrafico.com/images/check.gif"/>
     </a>
     <a href="https://github.com/leviarista/eco-stats-peru">
       <img width="400" src="https://repository-images.githubusercontent.com/340539352/ef20cd80-7a0d-11eb-89f7-7d47d811e502"/>
