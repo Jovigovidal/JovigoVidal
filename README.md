@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • IoT Engineer • Linux Enthusiast
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=devel&text1=JOSE%20VIDAL&text2=Laravel%20•%20Angular%20•%20ESP32%20•%20Linux&width=1000&height=220)](https://github.com/Jovigovidal)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=IOT%20DEVELOPER&text2=ESP32%20%7C%20ARDUINO%20%7C%20LINUX&width=900&height=200)](https://github.com/Jovigovidal)
 
 <br>
 
