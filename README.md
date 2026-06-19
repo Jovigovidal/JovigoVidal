@@ -18,64 +18,64 @@ Soy Jose Vidal,<sub> Desarrollador -> Full Stack & amante de las tecnologias IOT
 <br>
 ### Tecnologias 💻
 
+<h3 align="center">🚀 Herramientas y Tecnologías</h3>
+
 <p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+         alt="VS Code" width="90" height="90" hspace="15"/>
+  </a>
 
-<h3>Herramientas y Tecnologías 🚀</h3>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+         alt="HTML5" width="90" height="90" hspace="15"/>
+  </a>
 
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-         alt="VS Code" width="96" height="96" />
-</a>
+  <a href="https://platformio.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/platformio/F5822A"
+         alt="PlatformIO" width="90" height="90" hspace="15"/>
+  </a>
 
-<a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-         alt="HTML5" width="96" height="96" />
-</a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+         alt="Angular" width="90" height="90" hspace="15"/>
+  </a>
 
-<a href="https://platformio.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/platformio/platformio-original.svg"
-         alt="PlatformIO" width="96" height="96" />
-</a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+         alt="Laravel" width="90" height="90" hspace="15"/>
+  </a>
+</p>
 
-<a href="https://angular.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-         alt="Angular" width="96" height="96" />
-</a>
+<br>
 
-<a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-         alt="Laravel" width="96" height="96" />
-</a>
+<h3 align="center">💻 Sistemas Operativos</h3>
 
-<br><br>
+<p align="center">
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
+         alt="Ubuntu" width="90" height="90" hspace="15"/>
+  </a>
 
-<h3>Sistemas Operativos 💻</h3>
+  <a href="https://www.debian.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"
+         alt="Debian" width="90" height="90" hspace="15"/>
+  </a>
 
-<a href="https://ubuntu.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
-         alt="Ubuntu" width="96" height="96" />
-</a>
+  <a href="https://kubuntu.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/kubuntu/0079C1"
+         alt="Kubuntu" width="90" height="90" hspace="15"/>
+  </a>
 
-<a href="https://www.debian.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"
-         alt="Debian" width="96" height="96" />
-</a>
+  <a href="https://www.kernel.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+         alt="Linux" width="90" height="90" hspace="15"/>
+  </a>
 
-<a href="https://kubuntu.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubuntu/kubuntu-original.svg"
-         alt="Kubuntu" width="96" height="96" />
-</a>
-
-<a href="https://www.kernel.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-         alt="Linux" width="96" height="96" />
-</a>
-
-<a href="https://www.microsoft.com/windows/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-         alt="Windows 11" width="96" height="96" />
-</a>
-
+  <a href="https://www.microsoft.com/windows/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg"
+         alt="Windows 11" width="90" height="90" hspace="15"/>
+  </a>
 </p>
 
 ### Plataformas 📌
