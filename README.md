@@ -9,7 +9,7 @@
 
 <p align="">
 Hola!   <br>   
-Soy Jose Vidal,<sub> Desarrollador -> Full Stack | tambien me gusta desarrollar e implementar tecnologias IOT</sub>
+Soy Jose Vidal,<sub> Desarrollador -> Full Stack & amante de las tecnologias IOT</sub>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevidalg)
