@@ -14,42 +14,69 @@ Soy Jose Vidal,<sub> Desarrollador -> Full Stack & amante de las tecnologias IOT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevidalg)
 [![Website](https://img.shields.io/badge/website-ＣＶ-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://drive.google.com/file/d/1aSmkoARkKcv2LJ_1Mbn7ojrfG7r16SRz/view?usp=drive_link&target="_blank")
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967872814) 
+## [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967872814) 
 <br>
 ### Tecnologias 💻
 
-<p align="">
+<p align="center">
 
+<h3>Herramientas y Tecnologías 🚀</h3>
 
-<a href="https://www.w3.org/html/" target="_blank"> 
+<a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-         alt="html5" width="128" height="128" style="float:left; margin-left: ;" /> </a>
-                  
- <a href="https://www.w3.org/html/" target="_blank"> 
+         alt="VS Code" width="96" height="96" />
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-         alt="html5" width="128" height="128" style="float:right; margin-left: ;" /> </a>    
+         alt="HTML5" width="96" height="96" />
+</a>
 
-  
-   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
-         alt="html5" width="128" height="128" style="float:right; margin-left: ;" /> </a>
+<a href="https://platformio.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/platformio/platformio-original.svg"
+         alt="PlatformIO" width="96" height="96" />
+</a>
 
+<a href="https://angular.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
+         alt="Angular" width="96" height="96" />
+</a>
 
+<a href="https://laravel.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+         alt="Laravel" width="96" height="96" />
+</a>
 
+<br><br>
 
-  ### Sistema Operativos 💻
-  
-<a href="https://www.w3.org/html/" target="_blank"> 	
+<h3>Sistemas Operativos 💻</h3>
+
+<a href="https://ubuntu.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
+         alt="Ubuntu" width="96" height="96" />
+</a>
+
+<a href="https://www.debian.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"
+         alt="Debian" width="96" height="96" />
+</a>
+
+<a href="https://kubuntu.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubuntu/kubuntu-original.svg"
+         alt="Kubuntu" width="96" height="96" />
+</a>
+
+<a href="https://www.kernel.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-         alt="html5" width="128" height="128" style="float:right; margin-left: ;" /> </a>
-        
-        
-<a href="https://www.w3.org/html/" target="_blank"> 
+         alt="Linux" width="96" height="96" />
+</a>
+
+<a href="https://www.microsoft.com/windows/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-         alt="html5" width="128" height="128" style="float:right; margin-left: ;" /> </a>
+         alt="Windows 11" width="96" height="96" />
+</a>
 
 </p>
-
 
 ### Plataformas 📌
 
